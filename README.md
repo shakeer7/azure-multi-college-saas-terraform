@@ -1,4 +1,4 @@
-## Azure Multi-College Platform (Terraform)
+## Azure Multi-College-saas-Platform (Terraform)
 
 This project demonstrates a scalable  architecture deployed on Microsoft Azure using Terraform.
 
