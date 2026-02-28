@@ -1,6 +1,6 @@
-## Azure Multi-College SaaS Platform (Terraform)
+## Azure Multi-College Platform (Terraform)
 
-This project demonstrates a scalable SaaS architecture deployed on Microsoft Azure using Terraform.
+This project demonstrates a scalable  architecture deployed on Microsoft Azure using Terraform.
 
 It supports multiple colleges (multi-tenant system) with secure APIs, event-driven architecture, and monitoring.
 
@@ -46,7 +46,7 @@ How to Deploy
 
 Step 1: Clone repo
 
-git clone https://github.com/shakeer7/azure-multi-college-saas-terraform
+git clone https://github.com/shakeer7/azure-multi-college- -terraform
 
 Step 2: Initialize Terraform
 
