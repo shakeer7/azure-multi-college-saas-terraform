@@ -46,7 +46,7 @@ How to Deploy
 
 Step 1: Clone repo
 
-git clone https://github.com/yourusername/azure-multi-college-saas-terraform
+git clone https://github.com/shakeer7/azure-multi-college-saas-terraform
 
 Step 2: Initialize Terraform
 
